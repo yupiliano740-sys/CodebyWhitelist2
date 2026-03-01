@@ -2,7 +2,7 @@
   "usuarios": [
     {"id": 123456789, "nombre": "JugadorUno"},
     {"id": 987654321, "nombre": "JugadorDos"},
-    {"id": 8540422437, "nombre": "Diego"},
+    {"id": 8540422437, "nombre": "DX_UNO2"},
     {"id": 8144772386, "nombre": "bandidokINT"}
   ]
 }
